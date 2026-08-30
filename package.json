@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "axios": "^1.7.4",
-    "js-yaml": "^4.1.0"
+    "js-yaml": "^4.3.1"
   },
   "scripts": {
     "lint": "LEFTHOOK_EXCLUDE=test lefthook run pre-commit && lefthook run pre-push",
